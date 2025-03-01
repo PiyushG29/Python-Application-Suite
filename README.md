@@ -1,5 +1,5 @@
-# CODSOFT
-1 Month Python Programming Internship
+# Application-Suite
+1 Month Python Programming Project
 
 
 TASK 1
